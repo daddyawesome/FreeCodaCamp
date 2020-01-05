@@ -10,3 +10,14 @@ var ourName;
 
 // Declare myName below this line
 var myName;
+
+/* Basic JavaScript: Storing Values with the Assignment Operator*/
+// Setup
+var a;
+var b = 2;
+/*
+Assign the value 7 to variable a.
+Assign the contents of a to variable b.
+*/
+a = 7;
+b = a;
