@@ -61,3 +61,6 @@ var lastName = "Turing";
 // Only change code below this line
 var myFirstName ="Daddy"
 var myLastName = "Awesome"
+
+/*Escaping Literal qoutes*/
+var myStr = "I am a \"double quoted\" string inside \"double quotes\".";
