@@ -52,3 +52,12 @@ var c = 12;
 a += 12;
 b += 9;
 c += 7;
+
+/*Declare String VariablesPassed*/
+// Example
+var firstName = "Alan";
+var lastName = "Turing";
+
+// Only change code below this line
+var myFirstName ="Daddy"
+var myLastName = "Awesome"
