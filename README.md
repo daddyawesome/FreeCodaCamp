@@ -31,7 +31,7 @@
 - API's
 - SQL
 - Cloud Data Storage (Google BigQuery)
-- Data Visualization (Matplotlib, Seaborn)
+- Data Visualization (Matplotlib, Seaborn, plotly, *bokeh for flask*)
 - Data Preparation
 - Statistics
     - Descriptive/Summary statistics
