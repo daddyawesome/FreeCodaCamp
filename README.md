@@ -50,7 +50,8 @@
         Inference about slope
         Linear and non linear regression
         Classification
-        
+    - Statsmodels
+    
         Resources: I am a big fan of the statistics course on [Khan academy](https://www.khanacademy.org/math/statistics-probability) for learning the basics. The [SciPy             lecture notes](https://www.scipy-lectures.org/packages/statistics/index.html) are another great resource to learn these concepts in Python. I also highly                 recommend reading the book [Think Stats](http://www.greenteapress.com/thinkstats/) — available for free online.
 - Calculus
     - Derivatives
@@ -84,6 +85,9 @@
                 
 **Python notes for advanced learners**
 - Web framework
+- TensorFlow
+- Scikit Learn
+- Keras
 - Machine Learning
 - Deep learning
 - Artificial Intelligence
