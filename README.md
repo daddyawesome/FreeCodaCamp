@@ -93,4 +93,12 @@
 - Artificial Intelligence
 - Relational Database
 
+Rule 1: never pick up a half done website. 
+Rule 2: never take a job where they want to "do things themselves". And don't work with fixed prices if you calculate your price on a best case scenario. 
+Rule 3: don't do content manangement 
+Rule 4: don't promise a sales target on their website.
+Rule 5: start sending invoices every money and not just at the end of the project. 
+Rule 5: Put every website on your own webserver and don't release it untill it's paid. 
+Rule 6: Don't work for free. 
+Rule 7: Don't work for free.
 
