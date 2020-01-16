@@ -50,6 +50,8 @@ Here's a Python road-map to take you from complete beginner to advanced with mac
 - Automate the boring stuff: https://automatetheboringstuff.com
 - Algorithms and Data structures in Python by Goldwasser (Intermediate level)
 - Python Programming: An Introduction to Computer Science
+-https://mml-book.github.io/book/mml-book.pdf
+-https://www.mobt3ath.com/uplode/book/book-33342.pdf
 
 Here's some ones for other related and important topics:
 - Clean Code by Robert Martin (How to write good code)
